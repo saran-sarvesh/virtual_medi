@@ -28,15 +28,13 @@
             tools:layout_editor_absoluteY="0dp">
 
             <TextView
-                android:id="@+id/textView4"
+                android:id="@+id/textView3"
                 android:layout_width="190dp"
                 android:layout_height="40dp"
-                android:layout_marginLeft="5dp"
-                android:layout_marginTop="2dp"
+
                 android:backgroundTint="#EAE8E8"
                 android:fontFamily="sans-serif"
                 android:text="Virtual Medi"
-                android:textAlignment="center"
                 android:textColor="@color/black"
                 android:textSize="26sp"
                 android:visibility="visible"
@@ -77,7 +75,7 @@
                 android:layout_marginTop="50dp"
                 android:contentDescription="@string/nav_header_desc"
                 android:paddingTop="0dp"
-                app:srcCompat="@drawable/homelogo" />
+                app:srcCompat="@drawable/final_logo" />
 
             <TextView
                 android:layout_width="match_parent"

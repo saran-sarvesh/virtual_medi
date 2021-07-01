@@ -57,7 +57,8 @@
         <item>Fast Heartbeat</item>
         <item>Indigestion</item>
         <item>Pressure Or Heaviness In Chest</item>
-
+        <item>Dry cough</item>
+        <item>Tiredness</item>
     </string-array>
 
 </resources>

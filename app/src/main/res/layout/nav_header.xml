@@ -19,7 +19,7 @@
         android:layout_height="100dp"
         android:contentDescription="@string/nav_header_desc"
         android:paddingTop="0dp"
-        app:srcCompat="@drawable/homelogo" />
+        app:srcCompat="@drawable/final_logo" />
 
     <TextView
         android:layout_width="match_parent"
